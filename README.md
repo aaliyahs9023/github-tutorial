@@ -17,8 +17,8 @@ _by Aaliyah Sealey_
 * Then input your email adress
 * Finally create a password and press the "sign up for github" button 
 * After that you want to switch your account to SSH and to start go to the profile icon in the top rihgt corner
-* on the left sidebar it will say SSH and GPG and click new SSH key and create a title "CLOUD9" [c9.io](https://c9.io/login) 
-* then open up cloud9 and click you gear icon and copy and paste the second SSH key into github
+* On the left sidebar it will say SSH and GPG and click new SSH key and create a title "CLOUD9" [c9.io](https://c9.io/login) 
+* Then open up cloud9 and click you gear icon and copy and paste the second SSH key into github
   * starts with ssh-rsa
   * add SSH key
   * open the worskpace you are going to use for example mine is called (github-learning) and type ssh -T git@github.com
